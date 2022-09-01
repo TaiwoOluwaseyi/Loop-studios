@@ -4,6 +4,7 @@
   background-size: cover;
 }
 
+
 @media(max-width: 576px) {
  #hero {
   background: url(./images/mobile/image-hero.jpg);
